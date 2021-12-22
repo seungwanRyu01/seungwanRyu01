@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm a web developer
 
-<img src="https://img.shields.io/badge/seungwan6255@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://velog.io/@ryu0114"><img src="https://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@ryu0114"/></a> <a href="https://www.instagram.com/spider_wani/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/seungwan6255@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://velog.io/@ryu0114"><img src="https://img.shields.io/badge/-Velog-20c997?style=flat"/></a> <a href="https://www.instagram.com/spider_wani/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
