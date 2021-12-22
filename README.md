@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm a web developer
 
-<img src="https://img.shields.io/badge/seungwan6255@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=본인주소)](본인주소)
+<img src="https://img.shields.io/badge/seungwan6255@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@ryu0114)](본인주소)
