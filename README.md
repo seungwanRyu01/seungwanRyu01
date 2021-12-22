@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **seungwanRyu01/seungwanRyu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 I'm a web developer
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/seungwan6255@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=본인주소)](본인주소)
