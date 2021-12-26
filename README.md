@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Seungwan%20Ryu&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Seungwan%20Ryu&fontSize=90)
 
   <img src="https://img.shields.io/badge/seungwan6255@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://velog.io/@ryu0114"><img src="https://img.shields.io/badge/-Velog-20c997?style=flat"/></a> <a href="https://www.instagram.com/spider_wani/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://www.notion.so/Ryu-Seung-Wan-6d6ee94770a245f3a845b11ad58a6d0f"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
  
